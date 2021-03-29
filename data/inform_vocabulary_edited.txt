@@ -1,0 +1,272 @@
+a  np/n
+about  (np\s)/n
+address  n
+afghan  n/n
+african  n/n
+again  (np\s)\(np\s)
+ah  s\s s/s
+alright  s\s s/s
+am  (np\s)/np
+american  n/n
+an  np/n
+and  (s\s)/s
+any  n/n
+anyone  np
+anything  np  
+anywhere  n
+are  (np\s)/np
+area  n
+areas  n
+asian  n/n
+at  pp/np (np\np)/np (np\np)/n
+australasian  n/n
+australian  n/n
+austrian  n/n
+available  n/n
+barbecue  n/n
+basque  n/n
+be  (np\s)/np
+belgian  n/n
+belgium  np
+beside  pp/np (np\np)/np
+bistro  n/n
+brazilian  n/n
+breath  n
+british  n/n
+but  (s\s)/s
+bye  s/s s\s
+cambridge  np
+can  s\s (np\s)/np (np\s)/(np\s) s/s
+canapes  n/n
+cantonese  n/n
+care  (np\s)/np np\s
+caribbean  n/n
+catalan  n/n
+center  n/n n
+central  n/n n
+centre  n/n n
+change  (np\s)/np
+cheap  n/n
+chinese  n/n
+chiquito  n
+christmas  n/n
+city  n
+class  n/n n
+corsica  n
+could  (np\s)\(np\s)
+creative  n/n
+crossover  np n/n
+cuban  n/n
+damn  n
+danish  n/n
+dear  n/n n
+decide  (np\s)/np
+did  (np\s)/(np\s)
+different  n/n
+do  (np\s)\(np\s)
+does  (np\s)\(np\s)
+doesnt  (np\s)\(np\s)
+dont  (np\s)/(np\s)
+downtown  n/n np
+east  n/n n
+eat  (np\s)/np np\s
+else  (np\s)/s
+english  n/n
+eritrean  n/n
+european  n/n
+every  n/n
+expensive  n/n
+fancy  n/n
+fast  n/n
+find  (np\s)/np
+fine  n n/n
+fish  n/n n
+food  n
+foods  n
+for  pp/n pp/np
+french  n/n
+from  pp/np (np\np)/np
+fusion  n/n
+gastro  n/n
+gastropub  n/n
+german  n/n
+get  (np\s)/np
+give  (np\s)/np
+good  n/n
+got  (np\s)/np
+greek  n/n
+halal  n/n
+harbor  n/n n
+has  (np\s)/np (np\s)/n 
+have  (np\s)/np (np\s)/n
+help  s/s s\s
+high  n/n
+hindi  n/n
+house  n
+how  (np\s)\(np\s) (n\n)/(n\n) (s/s)
+hungarian  n/n
+i  np
+iam  s
+id  s
+if  (s\s)/s
+im  s
+in  (np\np)/np (np\np)/n
+includes  (np\s)/np
+indian  n/n n
+indonesian  n/n
+inner  n/n
+international  n/n
+irish  n/n
+is  (np\s)/n (np\s)/np
+it  np
+italian  n/n
+its  np
+jamaican  n/n
+japanese  n/n
+just  (n/n)\(n/n) (np\s)\(np\s)
+kind  n/n
+know  (np\s)/np
+korea  np
+korean  n/n
+kosher  n/n
+lebanese  n/n
+let  (np\s)/np
+lets  np
+like  (np\s)/np (np\s)/n
+list  (np\s)/np n
+long  n/n
+look  (np\s)/np
+looking  s\(s/pp)
+malaysian  n/n
+matter  np\s
+may  (np\s)/(np\s)
+me  np
+meant  (np\s)/np
+mediterranean  n/n
+medium  n/n
+mexican  n/n
+mind  (np\s)/np
+missing  n/n
+moderate  n/n
+moderately  n/n
+modern  n/n
+moroccan  n/n
+moron  n/n
+music  np
+my  np/n
+need  (np\s)/np
+needs  (np\s)/(np\s)
+no  s/s s\s s (n/n)\(n/n)
+north  n/n n
+not  (np\s)/(np\s)
+of  (np\np)/np
+oh  s\s s/s
+ok  s s\s s/s
+okay  s s\s s/s
+on  pp/np (np\np)/np
+one  np/n
+oriental  n/n
+other  np/np n/n
+pan  n
+park  n (np\s)/np np\s
+part  n
+parts n np
+persian  n/n
+place  n
+please  s\s s/s
+polish  n/n
+polynesia  n/n
+polynesian  n/n
+portuguese  n/n
+prezzo  np
+price  n 
+priced  n/n n
+prices  n
+range  n/n
+really  n/n
+reasonably  n/n
+repeat  (np\s)/np
+restaurant  n
+restaurants  n
+rice  n
+romania  np
+romanian  n/n
+russian  n/n
+said  np\s
+says  np\s
+scandinavia  np
+scandinavian  n/n
+scottish  n/n
+sea  np
+seafood  n/n
+searching  s\(s/pp)
+see  (np\s)/np
+sells  (np\s)/np (np\s)/n
+serve  (np\s)/n (np\s)/np
+served  (np\s)/n (np\s)/np 
+serves  (np\s)/n (np\s)/np
+serving  (s\s)/np (s\s)/n
+should  (np\s)/(np\s)
+side  n
+singapore  np
+singaporean  n/n
+so  (s\s)/s
+sock  n
+some  np/s
+something
+sorry  n/n
+south  n/n n
+spanish  n/n
+steak  np n/n
+steakhouse  np
+such  s/s (np\s)\(np\s)
+surprise  n n/n
+swedish  n/n
+swiss  n/n
+system  n
+tell  (np\s)/np
+thai  n/n
+thailand  np
+that  (np\np)/(np\s)
+thats  s/s
+the  np/n
+their  n/n
+then  s/s
+there  (np\s)\(np\s) np/np
+theres  s/n s/np
+they  np
+thing  n
+this  np/n
+time  n
+to  pp/np (np\np)/np
+town  n np
+traditional  n/n
+try  (np\s)/np
+trying  (np\s)/np
+turkey  np
+turkish  n/n
+tuscan  n/n
+type  n
+uh s/s s\s s/n
+um s/s s\s s/np s/n s
+unusual  n/n
+vegetarian  n/n
+venetian  n/n
+venue  n
+venues  n
+vietnam  np
+vietnamese  n/n
+wanna  (np\s)/(np\s)
+want  (np\s)/np
+was  np\s
+well  (np\s)/np
+welsh  n/n
+west  n/n n
+what  s/(np\s)
+whats  s/np
+with  pp/np (np\np)/np (np\np)/n
+world  n/n
+would  (np\s)/(np\s)
+yes  s/s s\s
+you  np
+yourself  np

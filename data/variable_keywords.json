@@ -1,0 +1,21 @@
+{
+    "area": [
+        "town",
+        "area",
+        "restaurant",
+        "in"
+    ],
+
+    "pricerange": [
+        "restaurant",
+        "priced",
+        "price",
+        "range",
+        "food"
+    ],
+
+    "food": [
+        "food",
+        "restaurant"
+    ]
+}

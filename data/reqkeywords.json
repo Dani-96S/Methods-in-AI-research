@@ -1,0 +1,25 @@
+{ 
+    "addr": [
+        "where",
+        "address"
+    ],
+    "postcode": [
+        "postcode"
+    ],
+    "phone": [
+        "call",
+        "phone",
+        "telephone",
+        "number"
+    ],
+    "pricerange": [
+        "expensive",
+        "price"
+    ],
+    "food": [
+        "food",
+        "kitchen",
+        "type"
+    ]
+}
+ 
